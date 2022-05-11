@@ -23,5 +23,5 @@ Total cost: 150.0
 Average cost: 30.0 
 Highest price: 50.0 
 Lowest price: 10.0 
-# of prices >= the average: 3 
-# of prices < the average: 2
+ of prices >= the average: 3 
+ of prices < the average: 2
